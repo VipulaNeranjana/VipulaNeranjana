@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 <details open> 
     <summary><h2>About Me</h2></summary>
     <div align="center">
-    <!-- <a href="https://jeffreychiu.dev/">
-    <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
-    </a> -->
     <a href="https://www.linkedin.com/in/vipula-ariyarathna-a1b905203/">
     <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
@@ -30,7 +27,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
     </a>
     </div>
-
 </details>
 
 <details open> 
@@ -65,7 +61,7 @@ Here are some ideas to get you started:
     </div>
 </details>
 
-### GitHub Stats 📈
+<summary><h2>GitHub Stats 📈</h2></summary> 
 <div align="center">
   <table width="100%">
     <tbody>
