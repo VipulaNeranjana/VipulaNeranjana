@@ -61,29 +61,31 @@ Here are some ideas to get you started:
     </div>
 </details>
 
-<summary><h2>GitHub Stats 📈</h2></summary> 
-<div align="center">
-  <table width="100%">
-    <tbody>
-      <tr>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/VipulaNeranjana">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulaNeranjana&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Vipula's Language Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-        <td width="50%" style="border: none !important;">
-        <div align="center" width="100%">
-          <a href="https://github.com/VipulaNeranjana">
-            <img src="https://github-readme-stats.vercel.app/api?username=VipulaNeranjana&show_icons=true&hide=stars&hide_border=true" alt="Vipula's GitHub Stats" vertical-align="middle"/>
-          </a>
-        </div>
-        </td>
-      </tr>
-    </tbody>
-  <table>
-<div>
+<details open> 
+    <summary><h2>GitHub Stats 📈</h2></summary> 
+    <div align="center">
+    <table width="100%">
+        <tbody>
+        <tr>
+            <td width="50%" style="border: none !important;">
+            <div align="center" width="100%">
+            <a href="https://github.com/VipulaNeranjana">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulaNeranjana&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Vipula's Language Stats" vertical-align="middle"/>
+            </a>
+            </div>
+            </td>
+            <td width="50%" style="border: none !important;">
+            <div align="center" width="100%">
+            <a href="https://github.com/VipulaNeranjana">
+                <img src="https://github-readme-stats.vercel.app/api?username=VipulaNeranjana&show_icons=true&hide=stars&hide_border=true" alt="Vipula's GitHub Stats" vertical-align="middle"/>
+            </a>
+            </div>
+            </td>
+        </tr>
+        </tbody>
+    <table>
+    <div>
+</details>
 
 ---
 
